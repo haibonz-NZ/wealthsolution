@@ -1,0 +1,29 @@
+# Dependencies
+node_modules
+.pnpm-store
+
+# Production
+dist
+build
+
+# Misc
+.DS_Store
+.env
+.env.local
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# System Files
+Thumbs.db
+*.exe
+*.dmg
+*.iso
+*.msi
+*.zip
+*.7z
+*.rar
+
+# User specific (prevent accidental upload of installers)
+Adobe*
